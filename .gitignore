@@ -4,3 +4,5 @@ release-*
 *~
 ._*
 .DS_Store
+ib/ext/src/IBJ*
+ib/ext/src/twsapi*
